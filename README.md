@@ -1,8 +1,7 @@
-# **Pricing**
+# **PRICING**
 
 
-# PRICING: What should be price for the item ?
-
+# What should be price for the item ?
 
 A game company gave gift coins to its users for purchasing items in a game.
 Using these virtual coins, users buy various items for their characters.
@@ -10,6 +9,7 @@ The game company did not specify a price for an item and provided users to buy t
 For example, for the item named shield, users will buy this shield by paying the amounts they see fit.
 A user can pay with 30 units of virtual money given to his/her, while the other user can pay with 45 units.
 Therefore, users can buy this item with the amounts they can afford to pay.
+
 
 ## **Problems to be solved:**
 
